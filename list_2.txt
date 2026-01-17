@@ -1,5 +1,5 @@
 listNUM=2
-user=["THOM", "CULL"]
+user=[]
 NUMCAL=2745237362784927329374www.fesw.www.w82_ææ
 ADCULPAD=223312hd7pperu8f34jjf83f8usso83r8sh4ifhsei
 list_users_bannd=["HELL", "BANND", "bob", "CALL"]

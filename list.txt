@@ -1,0 +1,4 @@
+listNUM=1
+admin=2231
+NORXPOR=125.22.13
+port=5023
